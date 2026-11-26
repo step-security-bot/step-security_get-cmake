@@ -16,3 +16,4 @@ coverage
 .env
 !/.latest_cmake_version
 !/.latest_ninja_version
+.idea

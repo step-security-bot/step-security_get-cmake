@@ -8,7 +8,6 @@ import * as tools from '@actions/tool-cache';
 import * as path from 'path';
 import * as fs from 'fs/promises'
 import * as fsSync from 'fs'
-import * as fsSync from 'fs'
 import * as crypto from 'crypto';
 import { SemVer, maxSatisfying } from 'semver';
 import * as catalog from './releases-catalog'
